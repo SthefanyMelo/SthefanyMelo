@@ -1,16 +1,42 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Sthefany</title>
+</head>
+<body>
+    <h1>Hello World, I'm Sthefany, be very welcome! </h1>
 
-<!--
-**SthefanyMelo/SthefanyMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <table>
+        <tr>
 
-Here are some ideas to get you started:
+            <td>
+                <a href="https://github.com/SthefanyMelo">
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SthefanyMelo&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages"/>
+                </a>
+            </td>
+        </tr>
+    </table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h2> Technologies and Skills</h2>
+    <table>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" alt="HTML5"></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" alt="CSS3"></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"></td>
+            
+        </tr>
+    </table>
+
+    <div>
+       
+        <a href="www.linkedin.com/in/sthefanymelo" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://www.instagram.com/tehmel08/" target="_blank">
+            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn">
+        </a>
+    </div>
+</body>
+</html>

@@ -1,4 +1,4 @@
-# Hello World, I'm Sthefany, be very welcome! 
+# Hello World, I'm Sthefany
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SthefanyMelo&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/SthefanyMelo)
 
